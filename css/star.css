@@ -1,0 +1,37 @@
+body {
+    font-size: 16px;
+}
+
+.navbar-brand {
+    width: 8rem;
+    margin-right: 1rem;
+}
+
+.header-star h1 {
+    font-weight: 300;
+}
+
+.rounded-top {
+    overflow: hidden;
+}
+
+.bg-primary {
+    background-color: #73ADE3!important;
+}
+
+.navbar-nav {
+    flex-direction: row!important;
+}
+
+.nav-link {
+    margin-right: 20px!important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(255 255 255);
+}
+
+.btn-outline-success {
+    color: #fff;
+    border-color: #fff;
+}
